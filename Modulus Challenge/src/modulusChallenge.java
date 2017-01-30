@@ -5,8 +5,8 @@ public class modulusChallenge
 		public static void main(String[] args)
 		{
 			challenge1();
-//			challenge2();
-//			challenge3();
+			challenge2();
+			challenge3();
 		}
 		
     static int x = 0;
