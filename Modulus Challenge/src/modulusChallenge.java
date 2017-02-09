@@ -47,7 +47,7 @@ public class modulusChallenge
 					System.out.println("Fizz");
 		        if (y % 5 == 0)
 			        System.out.println("Buzz");
-		        if (y % 5 == 0 && y % 3== 0)
+		        if (y % 5 == 0 && y % 3 == 0)
 		        	System.out.println("FizzBuzz");
 		        else
 		        	System.out.println(y);
